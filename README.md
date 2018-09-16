@@ -1,2 +1,3 @@
-# -Users-Daniel-Documents-Grade-12-Sem-1-ICS4U-Unit-3-GUI
+Maze Game/Map Creator
 Utilized various programming techniques such as methods, arrays, OOP, and a GUI to develop a visual map creator allowing users to save, load, and play their own designs on a game panel.
+Create a .bat file to run the Maze Game. 
