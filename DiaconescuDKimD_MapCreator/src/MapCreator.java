@@ -1,11 +1,3 @@
-/*
-Assignment: Map Creator and Game Panel
-Name: Daniel Kim and Dan Diaconescu
-Teacher: Ms. Strelkovska
-Course Code: ICS4U
-Date: December 6, 2017
-*/
-
 import java.awt.Color;
 import java.awt.Container;
 import java.awt.Graphics;
